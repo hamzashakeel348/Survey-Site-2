@@ -1,0 +1,1 @@
+var back_url_link =  'https://lpstrk.com/'
